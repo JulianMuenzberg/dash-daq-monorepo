@@ -1,7 +1,8 @@
+--extra-index-url https://test.pypi.org/simple/
 dash==0.21.1
 dash-renderer==0.12.1
 dash-html-components==0.10.1
 dash-core-components==0.22.1
-../dash_daq-0.0.3.tar.gz
+dash-daq
 gunicorn==19.8.1
 Blinkstick==1.1.8
