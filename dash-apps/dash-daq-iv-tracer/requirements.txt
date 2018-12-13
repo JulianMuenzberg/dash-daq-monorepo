@@ -1,9 +1,10 @@
+--extra-index-url https://test.pypi.org/simple/
 dash
 plotly
 numpy
 dash-renderer
 dash-html-components
 dash-core-components
-../dash_daq-0.0.3.tar.gz
+dash-daq
 pyserial
 pyvisa
